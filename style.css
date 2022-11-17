@@ -1,0 +1,31 @@
+body {
+	color: #594e47;
+}
+
+h1 {
+	font-size: 45px;
+	text-shadow: 2px 2px 5px #98ab3a;
+	color: #bacf54;
+}
+
+h2 {
+	font-size: 30px;
+	text-shadow: 2px 2px 5px #98ab3a;
+	color: #bacf54;
+}
+
+h3 {
+	font-size: 20px;
+	color: #bacf54;
+}
+
+h4 {
+	font-size: 15px;
+	text-shadow: 2px 2px 5px #98ab3a;
+	color: #bacf54;
+}
+
+p {
+	font-size: 10px;
+	color: #bacf54;
+}
